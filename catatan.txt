@@ -1,0 +1,1 @@
+Untuk install dan jalanin filament harus aktifin extension ext-intl di php.ini
